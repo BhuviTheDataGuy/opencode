@@ -1,0 +1,17 @@
+{
+	"2mins": {
+		"platform.vouchers.movie_vouchers": ["updated_at", "prod_postgres_10.10.10.71_platform"],
+		"databaseid_1.plan.subscription": ["update_timestamp", "prod_postgres_10.10.10.82_source"],
+		"databaseid_2.plan.subscription": ["update_timestamp", "prod_postgres_10.10.10.86_subscriptions"]
+	},
+	"30mins": {
+		"test.top.file": ["update_timestamp", "prod_postgres_10.10.10.73_micorservices"],
+		"test.top.ticket": ["update_timestamp", "prod_postgres_10.10.10.73_micorservices"],
+		"databaseid_1.transactions.payment": ["update_timestamp", "prod_postgres_10.10.10.82_source"],
+		"databaseid_2.transactions.payment": ["update_timestamp", "prod_postgres_10.10.10.191_source"],
+		"databaseid_1.transactions.gateway": ["update_timestamp", "prod_postgres_10.10.10.82_source"],
+		"databaseid_2.transactions.gateway": ["update_timestamp", "prod_postgres_10.10.10.191_source"],
+		"databaseid_1.transactions.master": ["update_timestamp", "prod_postgres_10.10.10.82_source"],
+		"databaseid_2.transactions.master": ["update_timestamp", "prod_postgres_10.10.10.191_source"]
+  }
+}
